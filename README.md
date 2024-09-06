@@ -1,4 +1,4 @@
-# Melodia Essencial
+# Melodia Essencial - Imersão Dev com Google Gemini
 
 **Melodia Essencial** é uma plataforma web dedicada a destacar alguns dos meus artistas musicais favoritos. O site fornece informações detalhadas sobre cada artista, incluindo uma breve descrição de suas carreiras, fotos, e links diretos para seus perfis no Spotify e Instagram. A interface é simples, responsiva e permite que os visitantes explorem a música dos artistas com facilidade.
 
