@@ -135,7 +135,7 @@ footer {
         letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
     }
 
-    h2{
+    .descricao-site{
         font-size: 0.4rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
@@ -163,7 +163,7 @@ footer {
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
 
-    h2{
+    .descricao-site{
         font-size: 0.2rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
