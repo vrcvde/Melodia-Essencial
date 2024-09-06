@@ -159,12 +159,12 @@ footer {
 @media (max-width: 480px) {
 
     h1 {
-        font-size: 0.4rem; /* Tamanho da fonte em telas pequenas */
+        font-size: 0.8rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
 
     .descricao-site{
-        font-size: 0.2rem; /* Tamanho da fonte em telas pequenas */
+        font-size: 0.6rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
     
