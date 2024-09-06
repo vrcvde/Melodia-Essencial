@@ -15,6 +15,13 @@
 - **JavaScript**: Manipulação dinâmica dos dados dos artistas e exibição de informações na página.
 - **Google Fonts**: Usado para a fonte personalizada "Chakra Petch".
 
+
+## Link do vercel 
+
+
+https://melodia-essencial.vercel.app/
+
+
 ## Estrutura de Arquivos
 
 ```bash
