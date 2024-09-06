@@ -136,7 +136,7 @@ footer {
     }
 
     .descricao-site{
-        font-size: 0.4rem; /* Tamanho da fonte em telas pequenas */
+        font-size: 0.7rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
 
